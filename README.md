@@ -12,3 +12,7 @@ Get Memory information
 ```bash
 free
 ```
+Get disk  information
+```bash
+lsblk
+```
